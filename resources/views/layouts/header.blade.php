@@ -38,14 +38,9 @@
                     <ul class="navbar-nav ml-auto">
 
                         <li class="nav-item dropdown active">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a class="nav-link" href="#" >
                                 Home
                             </a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="/">Home Page 1</a>
-                                <a class="dropdown-item" href="homepage-2.html">Home Page 2</a>
-                                <a class="dropdown-item" href="homepage-3.html">Home Page 3</a>
-                            </div>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
